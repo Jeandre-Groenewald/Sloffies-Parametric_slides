@@ -13,6 +13,6 @@ You can also use the [OpenSCAD customizer](https://www.youtube.com/watch?v=7KUXM
 
 The OpenSCAD script is Open Source you are free to remix, adapt, and build on the existing design.
 
-Find out more about the design and how it came about, [3DWithUs forum]([https://www.youtube.com/watch?v=7KUXMJ4Z49I](https://3dwithus.com/forum/topic/976-sloffies-parametric-slides/)). 
+Find out more about the design and how it came about, [3DWithUs forum](https://3dwithus.com/forum/topic/976-sloffies-parametric-slides/). 
 
 ![slide shoes](cover_photo.JPG)
